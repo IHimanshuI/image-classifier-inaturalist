@@ -36,3 +36,6 @@ git checkout <branch-name>
 
 ## Merge Branches
 git merge <branch-name>
+
+## Reset not pushed commit
+git reset HEAD~1
