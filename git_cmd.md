@@ -15,7 +15,6 @@ git add .
 
 ## Commit Changes
 git commit -m "Your commit message"
-git commit -m "Your commit message"
 
 ## View Commit History
 git log
